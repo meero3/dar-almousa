@@ -40,10 +40,6 @@ h1,h2,h3,.aya{font-family:'Aref Ruqaa','Amiri',serif}
 .qr-img{width:190px;height:190px;object-fit:contain;border:8px solid #fff;border-radius:14px;box-shadow:var(--shadow);background:#fff}
 .mini-card a{color:var(--green);font-weight:700}
 .footer a{display:inline}.footer-grid a{display:block}
-@media(max-width:900px){
-  .hero-inner,.about-grid,.reg-grid,.cards-2{grid-template-columns:1fr}
-  .cards-3,.prog-grid{grid-template-columns:1fr 1fr}
-  .cards-4{grid-template-columns:1fr 1fr}
 .logo h1{font-size:22px;margin:0;color:var(--green)}
 .logo p{margin:0;font-size:13px;color:var(--muted)}
 .nav{display:flex;gap:18px;align-items:center}
