@@ -204,6 +204,7 @@ h1,h2,h3,.aya{font-family:'Aref Ruqaa','Amiri',serif}
 .footer h3,.footer h4{color:var(--gold2)}
 .footer a,.footer span{display:block;color:#d9e6e0;text-decoration:none;font-size:14px;padding:3px 0}
 .copy{text-align:center;border-top:1px solid rgba(255,255,255,.15);margin-top:24px;padding:14px;font-size:13px}
+.designer-credit{text-align:left;font-size:10px;color:rgba(217,230,224,.6);padding:0 16px 10px}
 
 @media(max-width:900px){
   .hero-inner,.about-grid,.reg-grid,.cards-2{grid-template-columns:1fr}
