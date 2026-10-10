@@ -15,9 +15,12 @@ h1,h2,h3,.aya{font-family:'Aref Ruqaa','Amiri',serif}
 .dot{opacity:.5}
 
 /* header */
-.header{background:linear-gradient(180deg,#fdf8ec 0%,#f6e9cd 100%);backdrop-filter:blur(8px);position:sticky;top:0;z-index:50;box-shadow:0 2px 15px rgba(0,0,0,.08);padding-bottom:10px;border-bottom:3px solid var(--gold)}
+.header{background:linear-gradient(180deg,#fffdf7 0%,#faf1de 100%);backdrop-filter:blur(8px);position:sticky;top:0;z-index:50;box-shadow:0 2px 15px rgba(0,0,0,.08);padding-bottom:10px;border-bottom:3px solid var(--gold)}
 .header-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 20px}
 .header-title{flex:1;text-align:center}
+.header-title h1{font-size:32px;margin:0;color:var(--green);line-height:1.5;font-weight:700}
+.header-sub{margin:2px 0 0;font-size:15px;color:var(--muted);font-weight:600;font-family:'Cairo',sans-serif}
+.header-branch{margin:0;font-size:13px;color:var(--gold-deep);font-weight:800;font-family:'Cairo',sans-serif}
 .brand-right{text-align:center}
 .brand-right .logos{justify-content:center}
 .brand-right h1{font-size:32px;margin:8px 0 0;color:var(--green);line-height:1.5;font-weight:700}
