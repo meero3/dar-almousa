@@ -26,7 +26,7 @@ h1,h2,h3,.aya{font-family:'Aref Ruqaa','Amiri',serif}
 .brand-right h1{font-size:32px;margin:8px 0 0;color:var(--green);line-height:1.5;font-weight:700}
 .header-title h1{font-size:34px;margin:0;color:var(--green);line-height:1.5;font-weight:700}
 .header-sub{margin:0;font-size:15px;color:var(--muted);font-weight:600;font-family:'Cairo',sans-serif}
-.logo-side{height:64px;width:auto;object-fit:contain;background:#fff;border-radius:12px;padding:3px}
+.logo-side{height:82px;width:auto;object-fit:contain;background:transparent}
 .nav-center{justify-content:center;flex-wrap:wrap}
 .reg-link-box{text-align:center;display:flex;flex-direction:column;justify-content:center;gap:14px}
 .reg-link-box p{opacity:.9}
